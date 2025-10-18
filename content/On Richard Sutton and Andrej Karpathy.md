@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-10-18T20:56:31.298+05:45","modified":"2025-10-18T23:36:18.413+05:45","cssclasses":""}
+{"publish":true,"created":"2025-10-18T20:56:31.298+05:45","modified":"2025-10-18T23:59:53.319+05:45","cssclasses":""}
 ---
 
-This past two days, i have been listening to Dwarkesh podcast. Two phenomenal guests, Richard Sutton and recently Andrej Karpathy have taken over the internet as it seems. 
+This past two days, i have been listening to Dwarkesh podcast. Two phenomenal guests, Richard Sutton and Andrej Karpathy have taken over the internet as it seems. 
 Richard is turing award winner and is father of RL. Andrej who has been working on LLM side before it was cool. Both the people have deep knowledge over what they are doing and i feel like their insights are supposed to be grounded as supposed to someone like [Tim Urban](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) or [Ray Kurtzweil](https://en.wikipedia.org/wiki/The_Singularity_Is_Nearer). I guess they aren't hyping as much as Sama or [Dario Amodei](https://www.darioamodei.com/post/the-urgency-of-interpretability) . Although the veil of fundraising would drape, there was genuine discussion around the internet because of these hypemen. 
 
 ### Bitter Lesson of Richard Sutton 
