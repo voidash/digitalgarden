@@ -1,14 +1,18 @@
 ---
-{"publish":true,"created":"2025-10-21T15:43:47.558+05:45","modified":"2025-10-21T23:45:48.955+05:45","cssclasses":""}
+{"publish":true,"created":"2025-10-21T15:43:47.558+05:45","modified":"2025-10-21T23:57:10.478+05:45","cssclasses":""}
 ---
 
+I am creating a terminal first dating app. This means users head to terminal, type in `ssh terminal.beauty` and then start matching.  The neat part is, you don't rely on browser at all. If you remove that aspect, a lot of superficial swipe problems already go away. Mainly because how much of a pool there is. There is a chance, we will have no users. But it doesn't matter... we are using a  protocol that allows user to securely connect with other computer for finding a date. 
 
-What is SSH? 
-A protocol that allows user to securely connect with other computer. This is it.  Gaining can do much more with it. I am creating a terminal first dating app. This means users head to terminal, type in `ssh terminal.beauty` and then start matching. 
+But how do you 
+```
+ssh terminal.beauty
+```
 
+where is the port? where is the username? 
 
 ### Username hurdle
-OpenSSH is ubiquitous connectivity tool for SSH.  Initially i even started with OpenSSH but faced the first hurdle. Like terminal.shop, i wanted no username, default port login into ssh. The first problem is with usernames.  
+OpenSSH is ubiquitous connectivity tool for SSH.  Initially i started with OpenSSH but faced the first hurdle. Like terminal.shop, i wanted no username, default port login into ssh. If you use port 22 the problem is fixed, so the problem is with usernames.  
 
 when i type `ssh terminal.beauty`, it is assumed `ssh yourusername@terminal.beauty` if we  there is nothing on `~/.ssh/config` for custom user definition. This means we need to allow range of connections like
 - `ssh ash9@terminal.beauty` 
