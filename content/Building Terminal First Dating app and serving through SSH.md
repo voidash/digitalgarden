@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-21T15:43:47.558+05:45","modified":"2025-10-21T23:57:10.478+05:45","cssclasses":""}
+{"publish":true,"created":"2025-10-21T15:43:47.558+05:45","modified":"2025-10-24T12:39:28.423+05:45","cssclasses":""}
 ---
 
 I am creating a terminal first dating app. This means users head to terminal, type in `ssh terminal.beauty` and then start matching.  The neat part is, you don't rely on browser at all. If you remove that aspect, a lot of superficial swipe problems already go away. Mainly because how much of a pool there is. There is a chance, we will have no users. But it doesn't matter... we are using a  protocol that allows user to securely connect with other computer for finding a date. 
@@ -63,7 +63,6 @@ pub fn run_my_program(
 }
 ```
 - Define how handler should handle data . when out program reads something from PTY , we send it to client.  
-
 
 
 
