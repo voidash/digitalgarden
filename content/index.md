@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-12T15:47:39.393+05:45","modified":"2026-01-18T18:08:42.348+05:45","cssclasses":""}
+{"publish":true,"created":"2025-10-12T15:47:39.393+05:45","modified":"2026-01-18T18:30:04.708+05:45","cssclasses":""}
 ---
 
 # Welcome to my Digital Garden
@@ -11,3 +11,7 @@ Just to make it clear these are directly from my obsidian vault. So they aren't 
 Here are some links where i put some formal deliberation with intent to share and digested 
 - [Blogs](https://ash9.dev/blog/)
 - [Week of curiosities](https://ash9.dev/blog/joy-and-curiosity/)
+
+Stuff i worked this week
+- [[sound localization from beam forming]]
+- [[Medical Imaging]]
