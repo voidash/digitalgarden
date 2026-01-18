@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-16T15:17:57.219+05:45","modified":"2025-11-16T15:17:57.219+05:45","cssclasses":""}
+{"publish":true,"created":"2025-10-21T16:34:54.615+05:45","modified":"2025-11-16T15:17:57.220+05:45","cssclasses":""}
 ---
 
  Pipe - it is a kernel-managed buffer acting as a temporary queue. 

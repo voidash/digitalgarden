@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-26T14:30:32.493+05:45","modified":"2025-10-29T00:59:16.735+05:45","cssclasses":""}
+{"publish":true,"created":"2025-10-26T14:30:32.493+05:45","modified":"2025-12-17T22:18:37.188+05:45","cssclasses":""}
 ---
 
 
@@ -15,7 +15,7 @@ To learn more on:
 
 | Model         | Notesj                                                                                                                                                                                                                                          | github url                                                              |     |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | --- |
-| Bark          | Text to audio model by Suno. Doesn't seem like something to puruse right now                                                                                                                                                                    |                                                                         |     |
+| Bark          | Text to audio model by Suno. Doesn't seem like something to pursue right now                                                                                                                                                                    |                                                                         |     |
 | RVC           | Voice conversion framework based on [[VITS]]                                                                                                                                                                                                    |                                                                         |     |
 | Tortoise      | So they are doing [[Autoregressive transformers]] and [[DDPMs]] for speech synthesis. These things are generally used by image synthesis tools                                                                                                  | https://github.com/neonbjb/tortoise-tts?tab=readme-ov-file              |     |
 | MAGNeT        | Now this uses something called [[Non autoregressive transformers]]                                                                                                                                                                              | https://github.com/facebookresearch/audiocraft/blob/main/docs/MAGNET.md |     |

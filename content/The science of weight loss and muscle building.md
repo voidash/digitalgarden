@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-15T12:53:43.946+05:45","modified":"2025-10-18T00:21:05.889+05:45","cssclasses":""}
+{"publish":true,"created":"2025-10-15T12:53:43.946+05:45","modified":"2025-12-28T13:40:27.913+05:45","cssclasses":""}
 ---
 
 It's been around 3 months since i have been going to gym. The good aspect is that i have formed a habit around it. I have lost around 5 kilograms. I feel the strength in my body. Now i want to optimize my patterns for maximum returns.  
@@ -35,7 +35,7 @@ Casein is slow digesting milk protein found in paneer and cheese.
 ### Creatine
 Creatine is a hybrid molecule our body builds from amino acid to recycle ATP. It is created on our kidney and liver. Muscles store it as phospo creatine around skeletal muscles area.
 
-## Muscles
+## [[Muscles]]
 
 Muscles are dynamic tissues made up of actin and myosin (thin and thick filaments), to convert ATP into mechanical force. Muscles types are:
 - skeletal muscle (voluntary movement)
@@ -90,4 +90,20 @@ These are special cells capable of producing various types of hormones present i
 
 #### Why caffeine works?
 Caffeine mimics stress signal. adenosine signals fatigue. Adenosine is a small molecule made when cells use up energy. 
+
+
+## Glutathione
+It's a tri-peptide which is just three amino acids that is not long enough to be a protein. It is a small chemical tool, it's not structural or it's not signaling molecule. 
+It is **Antioxidant** . 
+
+When oxygen reacts with molecules, it's always loss of electrons for the chemical reacting with oxygen. This happens on mitochondria when producing ATP.  So you breathe , you create these harmful species. These are called **Reactive Oxygen Species** . ROS breaks things in lipids doing a chain reaction. It also modifies proteins and also can also cause mutation in DNA by attacking base. 
+
+In general terms this means, DNA attack leads to cancer, faster aging. For protein it's enzyme malfunction. for lipds it means neuron death as brain is 60% fat. 
+
+Now we don' want that chain reaction to happen so we need to catch these free radicals like ($H_2O_2$, $O_2^{-}$. So Glutathione can do it's job
+
+There are other antioxidants like uric acid which works on extracellular level. But glutathione is intracellular enzyme
+
+Taking Glutathione is a supplement is a expensive urine. Compared to creatine , it's worthless and not even in same universe. 
+
 
