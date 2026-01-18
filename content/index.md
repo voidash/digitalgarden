@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-12T15:47:39.393+05:45","modified":"2026-01-18T18:30:04.708+05:45","cssclasses":""}
+{"publish":true,"created":"2025-10-12T15:47:39.393+05:45","modified":"2026-01-18T18:31:52.243+05:45","cssclasses":""}
 ---
 
 # Welcome to my Digital Garden
@@ -12,6 +12,11 @@ Here are some links where i put some formal deliberation with intent to share an
 - [Blogs](https://ash9.dev/blog/)
 - [Week of curiosities](https://ash9.dev/blog/joy-and-curiosity/)
 
+
 Stuff i worked this week
 - [[sound localization from beam forming]]
 - [[Medical Imaging]]
+
+Some past stuff
+- [[The science of weight loss and muscle building]]
+- [[Building Terminal First Dating app and serving through SSH]]
