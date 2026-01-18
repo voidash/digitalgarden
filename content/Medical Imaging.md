@@ -1,12 +1,15 @@
 ---
-{"publish":true,"created":"2026-01-18T18:08:57.851+05:45","modified":"2026-01-18T18:24:58.232+05:45","cssclasses":""}
+{"publish":true,"created":"2026-01-18T18:08:57.851+05:45","modified":"2026-01-18T18:28:48.770+05:45","cssclasses":""}
 ---
 
-What to image? Based on my previous knowledge and bit of chatgpt I found some fancy stuff like 
-- radiology (xray, ct-scan, mris)
+
+****Try the project first**** https://huggingface.co/spaces/trishuli/burn-detection
+
+What to image? On medical field specifically?? and does that make the world better place by discovering cancer before it discovers you or does it fill the world with more slop?  I found some fancy stuff like 
+- radiology (xray, ct-scan, MRIs)
 - pathology (you can look at tissues and do some interesting stuff) 
 	- Definitely picking up "Cancer vs normal" tissue detection next time
-- eye retinas 
+- eye retinas  
 - Skins
 
 So i proceeded with skin imaging. Mainly because i have this weird keloid type patch i developed out of nowhere. When i googled for the first time once i noticed it, the mighty google said something about melanoma cancer.  It was not cancer....
